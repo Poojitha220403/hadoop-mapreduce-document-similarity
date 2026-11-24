@@ -5,6 +5,7 @@ Computes pairwise **Jaccard similarity** between documents with a two-stage **Ha
 ![Java](https://img.shields.io/badge/Java-8+-007396?logo=openjdk&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-MapReduce%20·%20HDFS-66CCFF?logo=apachehadoop&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+[![CI](https://github.com/Poojitha220403/hadoop-mapreduce-document-similarity/actions/workflows/ci.yml/badge.svg)](https://github.com/Poojitha220403/hadoop-mapreduce-document-similarity/actions/workflows/ci.yml)
 
 ## Problem
 
